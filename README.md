@@ -2,7 +2,7 @@ Olá, sou Rebeca Andrade 💖
 
 Tenho 22 anos 🎂
 
-Sou do RJ 📌
+Sou de BH 📌
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Beca-React" width="50vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
